@@ -1,5 +1,9 @@
-# my-strawpage-index.html-<img src="oc.png" alt="My OC"><!DOCTYPE html>
-quick.man
+# <img src="quick-man.png" alt="Quick Man">
+your-repo/
+├── index.html
+└── images/
+    └── quick-man.png
+    <img src="images/quick-man.png" alt="Quick Man">
 <html>
 <body>
 
