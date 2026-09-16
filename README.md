@@ -9,3 +9,4 @@ Peakestnostalgic.github.oi
 
 </body>
 </html>
+<img src="character.png" alt="Character">
